@@ -7,8 +7,8 @@
 4. How is revenue distributed across customer segments?
 
 ## Dataset
-Superstore Sales Dataset — 4 years of US retail orders (2020–2023)
-Source: [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+Superstore Sales Dataset
+Source: https://www.kaggle.com/datasets/bitricks/superstore-dataset
 
 ## Tools used
 Power BI Desktop — data modeling, DAX measures, dashboard design
